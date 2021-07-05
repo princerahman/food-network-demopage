@@ -173,3 +173,16 @@ footer p{
 }
 .recipies-center{
     text-align: center;
+
+}
+.bottom {
+    padding-top: 30px;
+    padding-bottom: 25px;
+    background: #f1f1f1;
+}
+.bottom p {
+    color: #333738;
+    font-size: 14px;
+    font-weight: 600;
+	font-family: or;
+}
